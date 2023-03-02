@@ -185,7 +185,7 @@ Matrix https://matrix.to/#/@carrybell:matrix.org
 
 # FAQ
 
-## Is Apple good with Privacy and Security?
+## Is Apple good with privacy and security?
 No, I think a lot of people are deceived by their marketing. Apple is only good with privacy and security against 3rd party applications in a way that benefits themselves. They strongly enforce a closed ecosystem and act as gatekeepers. Their ["Standard data protection"](https://support.apple.com/en-us/HT202303) holds the encryption keys in their data centers so you have no sovereignty. Consider this list in [TOSDR](https://tosdr.org/en/service/158)
 
 
