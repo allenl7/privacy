@@ -184,8 +184,8 @@ I use a Ledger to generate my BIP39 seed phrase. I write it down and put it in a
 OpenPGP is a open standard for signing and encrypting. It is used in the Gnu/Linux world and for email encryption. If you are a developer that contributes to open source or wants to release software independently, you need your own PGP keys so people can verify that the software was released by you. If not, you need to rely on Apple App Store and Google Play Store as gatekeepers to release software.
 
 # Contact
-Signal +1 737 201 1700
-Matrix https://matrix.to/#/@carrybell:matrix.org
++ Signal +1 737 201 1700
++ Matrix https://matrix.to/#/@carrybell:matrix.org
 
 # FAQ
 
