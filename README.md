@@ -132,13 +132,10 @@ Making a good Master password or passphrase is not easy but extremely important.
 
 The order of preference of 2FA is
 
-Hardware key like (Yubikey, Onlykey, Nitrokey, Solokey, etc)
-
++ Hardware key like (Yubikey, Onlykey, Nitrokey, Solokey, etc)
 TOTP Authenticators like (Authy, Aegis, etc)
-
-Email
-
-Phone number
++ Email
++ Phone number
 
 It is important to use 2FA because it significantly increases your security and much harder to hack you.
 
@@ -185,3 +182,11 @@ I use a Ledger to generate my BIP39 seed phrase. I write it down and put it in a
 # Contact
 Signal +1 737 201 1700
 Matrix https://matrix.to/#/@carrybell:matrix.org
+
+# FAQ
+
+## Is Apple good with Privacy and Security?
+No, I think a lot of people are deceived by their marketing. Apple is only good with privacy and security against 3rd party applications in a way that benefits themselves. They offer great UI/UX on their products but they strongly enforce a closed ecosystem and act as gatekeepers. Their ["Standard data protection"](https://support.apple.com/en-us/HT202303) holds the encryption keys in their data centers so you have no sovereignty. Consider this list in [TOSDR](https://tosdr.org/en/service/158)
+
+
+
