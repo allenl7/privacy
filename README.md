@@ -23,13 +23,9 @@ This is also a longer discussion so feel free to contact me if you want to discu
 ## Websites
 
 + Anonymous Planet - I highly recommended reading through this guide and it’s foot notes. Read the section “Understanding some basics of how some information can lead back to you and how to mitigate some:” to learn about how identifiable you are on “Clearnet” (internet without TOR/VPN) and the possibilities RFID, WI-FI, IP addresses, etc.  
-
 + Privacy Guides - Go through the knowledge base, think about your threat model (what you want to protect) and look through all its recommended tools. 
-
 + The New Oil - fairly good guide for beginners. 
-
 + https://www.privacytools.io/ -  I do not like all its recommendations but a good source to consider
-
 + https://privsec.dev/ - still going through this one.
 
 ## Books
@@ -112,13 +108,13 @@ I currently use Simple Login. For anything that is not important, I provide an a
 Here is my email strategy and addresses that I have
 
 + real.name@pm.me : This is considered a public email address. Provided to anyone that already knows my real identity. These will probably 
-numbers@pm.me : This is a generic email without any personal identifying information. I try to keep these addresses as non-public as possible because I use them with important services like financial services. I think there are still some 4 digit domains with @pm.me still available.
++ numbers@pm.me : This is a generic email without any personal identifying information. I try to keep these addresses as non-public as possible because I use them with important services like financial services. I think there are still some 4 digit domains with @pm.me still available.
 
 I have a lot of other email addresses but feel free to compartmentalize whatever you want. Like maybe one for purchases, alias names, etc.
 
 I have also exported all my emails out of old gmail and set up a forwarding/delete to a masked email.
 
-Password Manager
+# Password Manager
 
 It is very important to use a Password Managers. Security researchers unanimously agree that you must be using a password manager. It is so suprising to me how many people do not use one. If you do not use one, you are probably reusing passwords. People that claim that are not also claim that they “have their own algorithm“. That is not secure because it is probably not hard to decode or decrypt that “algorithm” once 1 of them gets breached and what makes that password unique depends on the name of the service.
 
@@ -126,21 +122,18 @@ I currently use a Bitwarden Premium ($10/year) for 2FA and trusted emergency acc
 
 I multiple KeePassXC vaults for more sensitive secrets like recovery codes, 2FA reset codes, backup codes (those 3 are literally the same thing?), SSH keys, PGP keys, a few not all of my BIP 39 seed phrases, etc
 
-Making a good Master Password
+## Making a good Master Password
 
 Making a good Master password or passphrase is not easy but extremely important. I recommend watching Computerphile video and Sun Knudsen cover how password entropy works. A good master password should be memorable and have more than 40 bits of entropy (maybe more depending on your threat model). Consider writing it down and then destroying that piece of paper when you are confident you memorized it.
 
-Idea of the passwords you actually do need to memorize
+### Idea of the passwords you actually do need to memorize
 
-"master password" to password manager and veracrypt hidden containers
++ "master password" to password manager and veracrypt hidden containers
++ password to unlock laptop and devices and Metamask other wallets etc. (this is a weak password, less than 8 characters)
++ 4 PIN number for ATM cards, ledger device etc.
++ very weak password for outer volume vercrypt.
 
-password to unlock laptop and devices and Metamask other wallets etc. (this is a weak password, less than 8 characters)
-
-4 PIN number for ATM cards, ledger device etc.
-
-very weak password for outer volume vercrypt.
-
-2FA
+# 2FA
 
 The order of preference of 2FA is
 
@@ -154,7 +147,7 @@ Phone number
 
 It is important to use 2FA because it significantly increases your security and much harder to hack you.
 
-Phone numbers and VOIP numbers
+# Phone numbers and VOIP numbers
 
 It is likely the phone number you give out is very closely tied to your identity with data brokers like truecaller. Your friends saved your number and then apps will harvest your contacts data when you sync it. I “retired my 10+ year phone number by porting it over to my google voice number.
 
@@ -172,17 +165,17 @@ Matrix is great as a open platform and protocol. I really like the mission they 
 
 The thing getting to private text messaging is incredibly difficult because 2 people need to be on the same protocol or platform. Adaption of using something just slightly more difficult is so difficult and network effects are incredibly strong. Probably much stronger than you think. I currently have iMessage with an email but I really want to delete it. Once I delete it, I will be unable to contact some people unless its SMS text and that is actually worse.
 
-Social Media
+# Social Media
 
 I deleted all the data on FB, IG. The only thing holding me back from deleting/deactivating them is the friend connection I have. Once I figure out a way to export them, I will probably delete the account. I want to get to a point where I do not need these platforms with closed ecosystems to manage that for me.
 
 In the long run, Social Media usage has been a net negative on me. I also think it is mostly a net negative for most unless you make money on them or you have extreme discipline to only use certain features.
 
-RSS Feed
+# RSS Feed
 
 RSS is a open protocol to subscribe to any media. I really like it because it gives you full control over your news feed. It is important to curate your own information diet. I currently use Fluent Reader but I am still working on building out my feed.
 
-Payment
+# Payment
 
 For transactions and payments I want to more privacy. I use privacy.com. 
 
@@ -190,8 +183,10 @@ More info on Monero XMR will be added later.
 
 AML/CFT (Anti-Money Laundering/Combating the Financing of Terrorism) is a euphemism for warrantless surveillance.  All your banking activity is reported to the government. The 4th amendment is not doing anything anymore.
 
-Digital Assets
+# Digital Assets
 
 I use a Ledger to generate my BIP39 seed phrase. I write it down and put it in a safe place. I then use BIP39 passphrase or “25th word“ memorize it and back it up in a KeePassXC vault.
 
-
+# Contact
+Signal +1 737 201 1700
+Matrix https://matrix.to/#/@carrybell:matrix.org
