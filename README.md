@@ -24,7 +24,7 @@ This is also a longer discussion so feel free to contact me if you want to discu
 
 ## Websites
 
-+ [Anonymous Planet](https://anonymousplanet.org/) - I highly recommended reading through this guide and it’s foot notes. Read the section “Understanding some basics of how some information can lead back to you and how to mitigate some:” to learn about how identifiable you are on “Clearnet” (internet without TOR/VPN) and the possibilities RFID, WI-FI, IP addresses, etc.  
++ [Anonymous Planet](https://anonymousplanet.org/) - I highly recommended reading through this guide and it’s foot notes. This will take a lot of time but it is well worth it. Read the section “Understanding some basics of how some information can lead back to you and how to mitigate some:” to learn about how identifiable you are on “Clearnet” (internet without TOR/VPN) and the possibilities RFID, WI-FI, IP addresses, etc.  
 + [Privacy Guides](https://www.privacyguides.org/en/) - Go through the knowledge base, think about your threat model (what you want to protect) and look through all its recommended tools. 
 + [The New Oil](https://www.thenewoil.org) - good guide for beginners for practical advice. 
 + https://www.privacytools.io/ -  I do not like all its recommendations but a good source to consider
