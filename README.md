@@ -52,7 +52,7 @@ Reach out if you need help with anything. I can help. Also, there is no elitism 
 
 # Mobile Devices
 
-Consider this video by the Wall Street Journal. If you put you sensitive data and functionality on your phone you are going to want to make it secure.
+Consider [this video](https://yewtu.be/watch?v=QUYODQB_2wQ) by the Wall Street Journal. If you put you sensitive data and functionality on your phone you are going to want to make it secure.
 
 I have a iPhone and I also use GrapheneOS with a Pixel 6a.  I am slowly transitioning from iPhone to GrapheneOS.
 
@@ -186,6 +186,11 @@ I use a Ledger to generate my BIP39 seed phrase. I write it down and put it in a
 # PGP
 
 OpenPGP is a open standard for signing and encrypting. It is used in the Gnu/Linux world and for email encryption. If you are a developer that contributes to open source or wants to release software independently, you need your own PGP keys so people can verify that the software was released by you. If not, you need to rely on Apple App Store and Google Play Store as gatekeepers to release software.
+
+# OSINT
+
+Bellingcat's Online Investigation Toolkit [bit.ly/bcattools]
+https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/htmlview#
 
 # Contact
 + Signal +1 737 201 1700
