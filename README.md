@@ -8,7 +8,7 @@ This is a guide that first goes over why this is important and then I go over my
 
 # Why Privacy, Security, Data and Software Sovereignty is Important.
 
-The way I think about privacy and security is that it really just an means to an end. I would much rather spend my time taking long walks on the beach then being hyper vigilant and thinking of how I could be vulnerable. However, our privacy is being under attacked and by every single organization mostly for their own benefit.
+The way I think about privacy and security is that it really just an means to an end. I would much rather spend my time taking long walks on the beach then being hyper vigilant and thinking of how I could be vulnerable. However, our privacy and freedom is being under attacked by every single organization because "survalience capitialism".
 
 If you do a lot of very important things (media, communication, work, etc) digitally or if you store a of assets (bank account, sensitive info, etc) digitally, you are going to want it to be private and secure. The internet can be a highly adversarial environment and privacy and security is a form of self defense.
 
