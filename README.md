@@ -115,25 +115,25 @@ It is very important to use a Password Managers. Security researchers unanimousl
 
 I currently use a Bitwarden Premium ($10/year) for 2FA and trusted emergency access. 
 
-I multiple KeePassXC vaults for more sensitive secrets like recovery codes, 2FA reset codes, backup codes (those 3 are literally the same thing?), SSH keys, PGP keys, a few not all of my BIP 39 seed phrases, etc
+I use multiple KeePassXC vaults for more sensitive secrets like recovery codes, 2FA reset codes, backup codes (those 3 are literally the same thing?), SSH keys, PGP keys, a few not all of my BIP 39 seed phrases, etc
 
 ## Making a good Master Password
 
 Making a good Master password or passphrase is not easy but extremely important. I recommend watching Computerphile video and Sun Knudsen cover how password entropy works. A good master password should be memorable and have more than 40 bits of entropy (maybe more depending on your threat model). Consider writing it down and then destroying that piece of paper when you are confident you memorized it.
 
-### Idea of the passwords you actually do need to memorize
+### Idea of a list of passwords you actually do need to memorize
 
 + "master password" to password manager and veracrypt hidden containers
 + password to unlock laptop and devices and Metamask other wallets etc. (this is a weak password, less than 8 characters)
 + 4 PIN number for ATM cards, ledger device etc.
-+ very weak password for outer volume vercrypt.
++ very weak password for outer volume veracrypt.
 
 # 2FA
 
 The order of preference of 2FA is
 
 + Hardware key like (Yubikey, Onlykey, Nitrokey, Solokey, etc)
-TOTP Authenticators like (Authy, Aegis, etc)
++ TOTP Authenticators like (Authy, Aegis, etc)
 + Email
 + Phone number
 
