@@ -163,6 +163,8 @@ I deleted all the data on FB, IG. The only thing holding me back from deleting/d
 
 In the long run, Social Media usage has been a net negative on me. I also think it is mostly a net negative for most unless you make money on them or you have extreme discipline to only use certain features.
 
+Use https://libredirect.github.io/ as a proxy to browse social media.
+
 # RSS Feed
 
 RSS is a open protocol to subscribe to any media. I really like it because it gives you full control over your news feed. It is important to curate your own information diet. I currently use Fluent Reader but I am still working on building out my feed.
