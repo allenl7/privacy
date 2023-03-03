@@ -113,11 +113,13 @@ I have also exported all my emails out of old gmail and set up a forwarding/dele
 
 # Password Manager
 
-It is very important to use a Password Managers. Security researchers unanimously agree that you must be using a password manager. It is so suprising to me how many people do not use one. If you do not use one, you are probably reusing passwords. People that claim that are not also claim that they “have their own algorithm“. That is not secure because it is probably not hard to decode or decrypt that “algorithm” once 1 of them gets breached and what makes that password unique depends on the name of the service.
+It is very important to use a Password Managers. Security researchers unanimously agree that you must be using a password manager. It is so suprising to me how many people do not use one. If you do not use one, you are probably reusing passwords. People that claim that are not reusing passwords probably claim that they “have their own algorithm“. That is not secure because it is probably not hard to decode or decrypt that “algorithm” once 1 of them gets breached and what makes that password unique depends on the name of the service.
 
 I currently use a Bitwarden Premium ($10/year) for 2FA and trusted emergency access. 
 
-I use multiple KeePassXC vaults for more sensitive secrets like recovery codes, 2FA reset codes, backup codes (those 3 are literally the same thing?), SSH keys, PGP keys, a few not all of my BIP 39 seed phrases, etc
+I use multiple (KeePassXC)[https://keepassxc.org/] vaults (which are just files) for more sensitive secrets like recovery codes, 2FA reset codes, backup codes (those 3 are literally the same thing?), SSH keys, PGP keys, a few not all of my BIP 39 seed phrases, etc.
+
+KeePassXC is more secure because it drastically reduces the attack surface of not being hosted in a cloud server and also reduces 3rd party risk.
 
 ## Making a good Master Password
 
