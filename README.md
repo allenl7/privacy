@@ -194,6 +194,12 @@ OpenPGP is a open standard for signing and encrypting. It is used in the Gnu/Lin
 Bellingcat's Online Investigation Toolkit [bit.ly/bcattools]
 https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/htmlview#
 
+# Software I use
+
++ https://standardnotes.com/
++ https://vscodium.com/
+
+
 # Contact
 + Signal +1 737 201 1700
 + Matrix https://matrix.to/#/@carrybell:matrix.org
