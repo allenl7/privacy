@@ -183,7 +183,7 @@ AML/CFT (Anti-Money Laundering/Combating the Financing of Terrorism) is a euphem
 
 # Digital Assets
 
-I use a Ledger to generate my BIP39 seed phrase. I write it down and put it in a safe place. I then use BIP39 passphrase or “25th word“ memorize it and back it up in a KeePassXC vault.
+I use a Ledger to generate my BIP39 seed phrase, which is a 24 seed phrase. I write it down on paper and put it in a safe place. I am only comfortable writing this down even though it is not the best for OpSec (Operational Security) because I store the majority of the assets in the 25th Passphrase wallets. Read more here [Ledger](https://www.ledger.com/academy/passphrase-an-advanced-security-feature). I then use BIP39 passphrase or “25th passphrase“ memorize it and back it up in a KeePassXC vault.
 
 # PGP
 
