@@ -58,7 +58,7 @@ I have a iPhone and I also use GrapheneOS with a Pixel 6a.  I am slowly transiti
 
 # Computers
 
-Having one computer be both secure/private and usable/convenient is impossible. The key to it is compartmentalization. Maybe something like this. 
+Having one computer be both secure/private and usable/convenient is impossible. The key to it is compartmentalization. Maybe something like [this](https://invisiblethingslab.com/resources/2014/Software_compartmentalization_vs_physical_separation.pdf). 
 
 ## Linux
 
