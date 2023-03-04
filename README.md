@@ -203,6 +203,7 @@ https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2Unco
 # Contact
 + Signal +1 737 201 1700
 + Matrix https://matrix.to/#/@carrybell:matrix.org
++ [SimpleX](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2Fo3BDYTTERKYtumjYtTVW_TXC0tEfRvyO%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA8f8ZdvWpvSNk8JzCBr2Mu7ARBQkB3TUXXDgveQrUlFE%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion)
 
 # FAQ
 
