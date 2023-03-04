@@ -73,7 +73,7 @@ The most general advice I can give is go through all the settings and change it 
 
 # Web Browsers
 
-I mostly use Brave and Firefox. I have not spend enough time on browser set up yet. I use [Firefox Containers](https://support.mozilla.org/en-US/kb/containers) and uBlock Origin to control the network calls. I recommend going through Arkenfox firefox settings. There are a lot of other browsers to consider like Librewolf or an ungoogled Chromium.
+I mostly use Brave and Firefox. I have not spend enough time on browser set up yet. I use [Firefox Containers](https://support.mozilla.org/en-US/kb/containers) and uBlock Origin to control the network calls. I recommend going through [Arkenfox's firefox settings](https://github.com/arkenfox/user.js/). There are a lot of other browsers to consider like Librewolf or an ungoogled Chromium.
 
 # Encrypted Storage & Backups
 
