@@ -8,15 +8,17 @@ This is a guide that first goes over why this is important and then I go over my
 
 # Why Privacy, Security, Data and Software Sovereignty is Important.
 
-The way I think about privacy and security is that it really just an means to an end. I would much rather spend my time taking long walks on the beach then being hyper vigilant and thinking of how I could be vulnerable. However, our privacy and freedom is being under attacked by every single organization because "survalience capitialism".
-
 If you do a lot of very important things (media, communication, work, etc) digitally or if you store a of assets (bank account, sensitive info, etc) digitally, you are going to want it to be private and secure. The internet can be a highly adversarial environment and privacy and security is a form of self defense.
+
+The way I think about privacy and security is that it really just an means to an end. I would rather just be able to go about my day doing things I enjoy rather than thinking about how I am digitally vulnerable. It should be something that is given by default and not marketed to us as a feature. However, our privacy and freedom is being under attacked by every single organization because "survalience capitialism".
 
 I personally would go as far as saying privacy, security and data sovereignty even ultimately ties closely with basic human rights (freedom, democracy, freedom of speech, property rights, etc.)
 
 On more of the note on data and digital sovereignty, I highly recommend reading ["WhatsApp and the domestication of users"](https://seirdy.one/posts/2021/01/27/whatsapp-and-the-domestication-of-users/). The TL;DR of this article is WhatsApp is the perfect example of how mainstream digital services get users locked in to their service to ultimately exploit users and then the importance of (libre software)[https://www.gnu.org/philosophy/free-software-even-more-important.html] (if you dont know what that is, watch [Richard Stallman’s TED talk](https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-society/) to get an idea of it). 
 
-Rather then using a service because of its convenience, we should consider its privacy, security, governance and how much sovereignty the users have. Often times there is a spectrum and trade off between convenience versus privacy and security. I just think it is a trade off we need to be aware of and willing to accept. It takes a lot of learning and work to opt-out into alternative solutions, therefore I am writing I am sharing my current solution for review and discussion. Take a browse into https://tosdr.org/ and things like (Transparency Reports)[https://transparencyreport.google.com/?hl=en].
+Rather then using a service because of its convenience, we should consider its privacy, security, governance and how much sovereignty the users have. Sometimes there is a spectrum and trade off between convenience versus privacy and security. I just think it is a trade off we need to be aware of and willing to accept. Take a browse into https://tosdr.org/ and things like (Transparency Reports)[https://transparencyreport.google.com/?hl=en].
+
+It takes a lot of learning and work to opt-out into alternative solutions, therefore I am writing I am sharing my current solution for review and discussion. 
 
 This is also a longer discussion so feel free to contact me if you want to discuss further.
 
