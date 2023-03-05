@@ -14,7 +14,7 @@ The way I think about privacy and security is that it really just an means to an
 
 I personally would go as far as saying privacy, security and data sovereignty even ultimately ties closely with basic human rights (freedom, democracy, freedom of speech, property rights, etc.)
 
-On more of the note on data and digital sovereignty, I highly recommend reading ["WhatsApp and the domestication of users"](https://seirdy.one/posts/2021/01/27/whatsapp-and-the-domestication-of-users/). The TL;DR of this article is WhatsApp is the perfect example of how mainstream digital services get users locked in to their service to ultimately exploit users and then the importance of (libre software)[https://www.gnu.org/philosophy/free-software-even-more-important.html] (if you dont know what that is, watch [Richard Stallman’s TED talk](https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-society/) to get an idea of it). 
+On more of the note on data and digital sovereignty, I highly recommend reading ["WhatsApp and the domestication of users"](https://seirdy.one/posts/2021/01/27/whatsapp-and-the-domestication-of-users/). The TL;DR of this article is WhatsApp is the perfect example of how mainstream digital services get users locked in to their service to ultimately exploit users and then the importance of (libre software)[https://web.archive.org/web/20230227222905/https://www.gnu.org/philosophy/free-software-even-more-important.html] (if you dont know what that is, watch [Richard Stallman’s TED talk](https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-society/) to get an idea of it). 
 
 Rather then using a service because of its convenience, we should consider its privacy, security, governance and how much sovereignty the users have. Sometimes there is a spectrum and trade off between convenience versus privacy and security. I just think it is a trade off we need to be aware of and willing to accept. Take a browse into https://tosdr.org/ and things like (Transparency Reports)[https://transparencyreport.google.com/?hl=en].
 
@@ -45,6 +45,7 @@ This is also a longer discussion so feel free to contact me if you want to discu
 + Techlore - [Youtube](https://www.youtube.com/channel/UCs6KfncB4OV6Vug4o_bzijg) - I have not watched that many Techlore videos but they are good for a less technical audience.
 + [Luke Smith](https://www.youtube.com/@LukeSmithxyz/videos) - mostly videos on Linux, some on privacy. He is about being independent and sovereign in every sense. He might be a bit radical and even alt right by some standards. I personally think he has a pretty interesting perspective on things and he explains himself pretty well.
 + [The Hated One](https://www.youtube.com/@TheHatedOne) - I mostly watched the ones on TOR
++ 
 
 # My Current Set Up and Strategies
 
@@ -54,7 +55,7 @@ Reach out if you need help with anything. I can help. Also, there is no elitism 
 
 # Mobile Devices
 
-Consider [this video](https://yewtu.be/watch?v=QUYODQB_2wQ) by the Wall Street Journal. If you put you sensitive data and functionality on your phone you are going to want to make it secure.
+Consider [this video](https://yewtu.be/watch?v=QUYODQB_2wQ) by the Wall Street Journal. If you put you sensitive data and functionality on your phone you are going to want to make it secure. Also, reconsider what you put on your phone and the worst case scenario if someone has access to it.
 
 I have a iPhone and I also use GrapheneOS with a Pixel 6a.  I am slowly transitioning from iPhone to GrapheneOS.
 
