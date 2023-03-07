@@ -114,7 +114,7 @@ I currently use Simple Login. For anything that is not important, I provide an a
 
 Here is my email strategy and addresses that I have
 
-+ real.name@pm.me : This is considered a public email address. Provided to anyone that already knows my real identity. These will probably 
++ real.name@pm.me : This is considered a public email address. Provided to anyone that already knows my real identity. These will probably be collected by data brokers, etc
 + numbers@pm.me : This is a generic email without any personal identifying information. I try to keep these addresses as non-public as possible because I use them with important services like financial services. I think there are still some 4 digit domains with @pm.me still available.
 
 I have a lot of other email addresses but feel free to compartmentalize whatever you want. Like maybe one for purchases, alias names, etc.
