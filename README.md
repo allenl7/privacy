@@ -77,6 +77,10 @@ I recently bought a Thinkpad and I run Ubuntu, Mint and Tails off of it. Still p
 
 The most general advice I can give is go through all the settings and change it to how you see fit. I do not sign into apple ID and I do not recommend using iCloud and Siri.
 
+# DNS resolver
+
+Currently using NextDNS.io. DNS-over-HTTPS. block all the ads, porn, social media sites and delete all logs
+
 # Web Browsers
 
 I mostly use Brave and Firefox. I have not spend enough time on browser set up yet. I use [Firefox Containers](https://support.mozilla.org/en-US/kb/containers) and uBlock Origin to control the network calls. I recommend going through [Arkenfox's firefox settings](https://github.com/arkenfox/user.js/). There are a lot of other browsers to consider like Librewolf or an ungoogled Chromium.
