@@ -1,5 +1,5 @@
 # privacy
-Privacy, Security, and Digital Soverignty handbook
+Privacy, Security, and Digital Sovereignty handbook
 
 
 # Introduction
