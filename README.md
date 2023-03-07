@@ -106,7 +106,7 @@ I currently use Proton VPN when browsing the internet. I am thinking about tryin
 
 ## Email with email masking service
 
-I currently use Protonmail. 
+I currently use Protonmail. I might try out Fastmail and Tutonota sometime later.
 
 For most, if you use the same email address for a lot of things, it is very closely tied to your real identity. With OSINT a lot of information can be uncovered with that email address. This is why you should use a email forwarding service.
 
@@ -208,7 +208,11 @@ https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2Unco
 
 + https://standardnotes.com/
 + https://vscodium.com/
++ ....
 
+# How to use I2P and Tor
+
+TODO: add info
 
 # Contact
 + Signal +1 737 201 1700
