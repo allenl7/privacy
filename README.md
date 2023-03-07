@@ -9,10 +9,10 @@ This is a guide that first goes over why this is important and then I go over my
 # Why Privacy, Security, Data and Software Sovereignty is Important.
 
 ## Digital Security
-If you do a lot of very important things (media, communication, work, etc) digitally or if you store a of assets (bank account, sensitive info, etc) digitally, you are going to want it to be private and secure. The internet can be a highly adversarial environment. Digital security is a form of self defense.
+If you do a lot of very important things (media, communication, work, etc) digitally or if you store important things (bank account, sensitive info, etc) digitally, you are going to want it to be secure. The internet can be a highly adversarial environment. Digital security is a form of self defense.
 
 ## Digital Privacy
-Privacy ultimately ties closely with basic human rights (freedom, democracy, freedom of speech, property rights, etc.)
+Privacy ultimately ties closely with individual human rights (freedom, democracy, freedom of speech, property rights, etc.) 
 
 The way I think about privacy and security is that it really just an means to an end. I would rather just be able to go about my day doing things I enjoy rather than thinking about how I am digitally vulnerable. Full privacy should be something that is given as an option and that is non-negotiable. Right now it is marketed to us as a feature.
 
