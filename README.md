@@ -4,7 +4,7 @@ Privacy, Security, and Digital Sovereignty handbook
 
 # Introduction
 
-This is a guide that first goes over why this is important and then I go over my personal setup and strategies I use. The main goal of this write-up is to inform people and discuss ideas on how individuals to acheive privacy and security.
+This is a guide that first goes over why this is important and then I go over my personal setup and strategies I use. The main goal of this write-up is to inform people and discuss ideas on how individuals to achieve more privacy and security.
 
 # Why Privacy, Security, Data and Software Sovereignty is Important.
 
