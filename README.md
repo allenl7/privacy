@@ -1,5 +1,5 @@
 # privacy
-Onboarding Guide to Privacy, Security, and Digital Soverignty
+Privacy, Security, and Digital Soverignty handbook
 
 
 # Introduction
