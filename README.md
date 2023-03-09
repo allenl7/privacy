@@ -60,7 +60,9 @@ Reach out if you need help with anything. I can help. Also, there is no elitism 
 
 Consider [this video](https://yewtu.be/watch?v=QUYODQB_2wQ) by the Wall Street Journal. If you put you sensitive data and functionality on your phone you are going to want to make it secure. Also, reconsider what you put on your phone and the worst case scenario if someone has access to it.
 
-I have a iPhone and I also use GrapheneOS with a Pixel 6a.  I am slowly transitioning from iPhone to GrapheneOS.
+I have a iPhone and I also use (GrapheneOS)[https://grapheneos.org/] with a Pixel 6a.  I am slowly transitioning from iPhone to GrapheneOS.
+
+Amazon has some really cheap Pixel phones you can buy like [this](https://www.amazon.com/Google-Pixel-6-Inches-Display-SmartPhone/dp/B0B2F4LMS2)
 
 # Computers
 
