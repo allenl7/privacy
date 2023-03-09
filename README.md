@@ -33,7 +33,7 @@ This is also a longer discussion so feel free to contact me if you want to discu
 + [Privacy Guides](https://www.privacyguides.org/en/) - Go through the knowledge base, think about your threat model (what you want to protect) and look through all its recommended tools. 
 + [The New Oil](https://www.thenewoil.org) - good guide for beginners for practical advice. 
 + https://www.privacytools.io/ -  I do not like all its recommendations but a good source to consider
-+ https://github.com/pluja/awesome-privacy#password-managers
++ https://github.com/pluja/awesome-privacy
 + https://privsec.dev/ - still going through this one.
 
 ## Books
