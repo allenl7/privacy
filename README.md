@@ -185,7 +185,7 @@ RSS is a open protocol to subscribe to any media. I really like it because it gi
 
 # Payment
 
-For transactions and payments I want to more privacy. I use privacy.com. 
+For transactions and payments I want to more privacy. I use [privacy.com](https://privacy.com/) 
 
 More info on Monero XMR will be added later.
 
