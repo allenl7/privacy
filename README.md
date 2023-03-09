@@ -215,12 +215,10 @@ https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2Unco
 + ....
 
 # How to use I2P and Tor
-
-darknet opsec bible
-TODO: add info
+[https://github.com/allenl7/privacy#contact](https://github.com/allenl7/privacy#contact)
 
 # Virtual Machines / Whonix VMs / Qubes OS
-TODO: add info
+[https://github.com/allenl7/privacy#contact](https://github.com/allenl7/privacy#contact)
 
 
 # Contact
