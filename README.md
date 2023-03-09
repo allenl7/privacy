@@ -197,7 +197,7 @@ AML/CFT (Anti-Money Laundering/Combating the Financing of Terrorism) is a euphem
 
 I use a Ledger to generate my BIP39 seed phrase, which is a 24 seed phrase. I write it down on paper and put it in a safe place. I am only comfortable writing this down even though it is not the best for OpSec (Operational Security) because I store the majority of the assets in the 25th Passphrase wallets. Read more here [Ledger](https://www.ledger.com/academy/passphrase-an-advanced-security-feature). I then use BIP39 passphrase or “25th passphrase“ memorize it and back it up in a KeePassXC vault. BIP39 passphrase provides plausible deniability, similarly to hidden volumes on Veracrypt.
 
-Here is a great website to learn more - https://walletsrecovery.org/
+Here is a great website to learn more and the differences of Ledger Secure Element or like a Trezor - https://walletsrecovery.org/
 
 # PGP
 
