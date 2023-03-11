@@ -9,7 +9,7 @@ The main goal of this write-up is to inform people and discuss ideas on attainin
 # Why Privacy, Security, Data and Software Sovereignty is Important.
 
 ## Digital Security
-Digital security is a form of self defense. The internet nowadays is a highly adversarial environment teeming with ad trackers,scammers, and viruses. As we perform important activities online (work, communication) and store important information digitally (bank accounts, personal documents), we need our digital life to be secure.
+Digital security is a form of self defense. The internet nowadays is a highly adversarial environment teeming with ad trackers, scammers, and viruses. As we perform important activities online (work, communication) and store important information digitally (bank accounts, personal documents), we need our digital life to be secure.
 
 ## Digital Privacy
 Privacy ultimately ties closely with individual human rights (freedom, democracy, freedom of speech, property rights, etc.) 
