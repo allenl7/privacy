@@ -1,15 +1,15 @@
-# privacy
+# Privacy
 Privacy, Security, and Digital Sovereignty handbook
 
 
 # Introduction
 
-This is a guide that first goes over why this is important and then I go over my personal setup and strategies I use. The main goal of this write-up is to inform people and discuss ideas on how individuals to achieve more privacy and security.
+The main goal of this write-up is to inform people and discuss ideas on attaining more privacy and security. This guide goes over why privacy and security are important and my personal setup and strategies for achieving them.
 
 # Why Privacy, Security, Data and Software Sovereignty is Important.
 
 ## Digital Security
-If you do a lot of very important things (media, communication, work, etc) digitally or if you store important things (bank account, sensitive info, etc) digitally, you are going to want it to be secure. The internet can be a highly adversarial environment. Digital security is a form of self defense.
+Digital security is a form of self defense. The internet nowadays is a highly adversarial environment teeming with ad trackers, scammers, and viruses. As we perform important activities online (work, communication) and store important information digitally (bank accounts, personal documents), we need our digital life to be secure.
 
 ## Digital Privacy
 Privacy ultimately ties closely with individual human rights (freedom, democracy, freedom of speech, property rights, etc.) 
