@@ -167,6 +167,7 @@ An easier and free option is to use Google Voice. This is what I use when anonym
 If you are price insensitive, https://crypton.sh is a solid service for a non-VOIP private number.
 
 # Messaging Texting Platforms
+https://www.securemessagingapps.com/
 
 Privacy Guides covers this section pretty well. Signal has great E2EE encryption. It has pretty good user adaption.
 
