@@ -16,6 +16,8 @@ Privacy ultimately ties closely with individual human rights (freedom, democracy
 
 The way I think about privacy and security is that it really just an means to an end. I would rather just be able to go about my day doing things I enjoy rather than thinking about how I am digitally vulnerable. Full privacy should be something that is given as an option and that is non-negotiable. Right now it is marketed to us as a feature.
 
+https://nitter.net/0xfoobar/status/1502083085743050754#m
+
 ## Digital Sovereignty
 I highly recommend reading this blog post - [WhatsApp and the domestication of users](https://seirdy.one/posts/2021/01/27/whatsapp-and-the-domestication-of-users/) by Seirdy. The TL;DR of this article is WhatsApp is the perfect example of how mainstream digital services get users locked in to their service to ultimately exploit users and then the importance of [libre software](https://web.archive.org/web/20230227222905/https://www.gnu.org/philosophy/free-software-even-more-important.html) (if you dont know what that is, watch [Richard Stallman’s TED talk](https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-society/) to get an idea of it). 
 
