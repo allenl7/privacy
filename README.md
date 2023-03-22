@@ -169,13 +169,16 @@ An easier and free option is to use Google Voice. This is what I use when anonym
 If you are price insensitive, https://crypton.sh is a solid service for a non-VOIP private number.
 
 # Messaging Texting Platforms
+This is a great website that compares all the messaging platform.
 https://www.securemessagingapps.com/
 
-Privacy Guides covers this section pretty well. Signal has great E2EE encryption. It has pretty good user adaption.
+(Privacy Guides)[https://www.privacyguides.org/en/real-time-communication] covers this section pretty well. 
+
+Signal has great E2EE encryption of the content. However, there is still metadata it leaks like using your phone number. It has pretty good user adaption. This is my main instant messaging platform.
 
 Matrix is great as a open platform and protocol. I really like the mission they are striving for. I will try to create my own Matrix server when I get a chance.
 
-The lack of a uniform messaging protocol is preventing private text messaging across different platforms and devices. Currently, two individuals need to be on the same platform, such as WhatsApp or iMessage, in order to message each other. Getting people to switch to a  more secure platform, like Signal or Matrix, is very difficult due to the strong network effects of WhatsApp and iMessage. Probably much stronger than you think. I currently have iMessage with an email but I really want to delete it. Once I delete it, I will be unable to contact some people unless its SMS text and that is actually worse.
+The lack of a uniform messaging protocol is preventing private text messaging across different platforms and devices. Currently, two individuals need to be on the same platform, such as WhatsApp or iMessage, in order to message each other. Getting people to switch to a  more secure platform, like Signal or Matrix, is very difficult due to the strong network effects of WhatsApp and iMessage. Probably much stronger than you think. I currently have iMessage with an email but I really want to delete it. Once I delete it, I will be unable to contact some people unless its SMS text which is worse.
 
 # Social Media
 
