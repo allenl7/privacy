@@ -168,11 +168,11 @@ An easier and free option is to use Google Voice. This is what I use when anonym
 
 If you are price insensitive, https://crypton.sh is a solid service for a non-VOIP private number.
 
-# Messaging Texting Platforms
+# Text Messaging  Platforms
 This is a great website that compares all the messaging platform.
 https://www.securemessagingapps.com/
 
-(Privacy Guides)[https://www.privacyguides.org/en/real-time-communication] covers this section pretty well. 
+[Privacy Guides](https://www.privacyguides.org/en/real-time-communication) covers this section pretty well. 
 
 Signal has great E2EE encryption of the content. However, there is still metadata it leaks like using your phone number. It has pretty good user adaption. This is my main instant messaging platform.
 
