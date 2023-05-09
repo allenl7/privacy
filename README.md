@@ -138,6 +138,8 @@ KeePassXC is more secure because it drastically reduces the attack surface of no
 
 ## Making a good Master Password
 
+https://yewtu.be/watch?v=fqrAzBAi64c
+
 Making a good Master password or passphrase is not easy but extremely important. I recommend watching Computerphile video and Sun Knudsen cover how password entropy works. A good master password should be memorable and have more than 40 bits of entropy (maybe more depending on your threat model). Consider writing it down and then destroying that piece of paper when you are confident you memorized it.
 
 ### Idea of a list of passwords you actually do need to memorize
