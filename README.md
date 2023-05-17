@@ -46,6 +46,7 @@ This is also a longer discussion so feel free to contact me if you want to discu
 
 ## Youtube/Odysee
 
++ [Charles Hoskinson Security Foundations video](https://yewtu.be/watch?v=fqrAzBAi64c) - goes through flashing ubuntu, using yubikey, using PGP encrypt, decrypt.
 + [Sun Knudsen](https://www.youtube.com/@SunKnudsen) - Sun is a self proclaimed security and privacy researcher. He previosly worked on an analytics tool (Lickstats) and realized the invasiveness in tracking technologies. He does a really good job with his videos in explaining and offering step by step guides along with an updated guide on his [website](https://sunknudsen.com). I really like his transparent and personable personality and how he seeks his work to be peer reviewed.
 + [Mental Outlaw](https://odysee.com/@AlphaNerd:8) - Kenny is a Linux enthusiast & network engineer. His videos are  commentary around recent tech events, Linux related stuff, digital privacy, and some rants. He does a really good job of explaining stuff.
 + [Techlore](https://www.youtube.com/channel/UCs6KfncB4OV6Vug4o_bzijg) - I have not watched that many Techlore videos but they are good for a less technical audience.
