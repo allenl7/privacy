@@ -53,6 +53,9 @@ This is also a longer discussion so feel free to contact me if you want to discu
 + [Luke Smith](https://www.youtube.com/@LukeSmithxyz/videos) - mostly videos on Linux, some on privacy. He is about being independent and sovereign in every sense. He might be a bit radical and even alt right by some standards. I personally think he has a pretty interesting perspective on things and he explains himself pretty well.
 + [The Hated One](https://www.youtube.com/@TheHatedOne) - I mostly watched the ones on TOR
 
+# Courses
+
++ I have not yet taken this course but I would like to https://www.coursera.org/specializations/cyber-security and https://www.edx.org/course/introduction-to-linux
 
 # My Current Set Up and Strategies
 
