@@ -23,9 +23,7 @@ I highly recommend reading this blog post - [WhatsApp and the domestication of u
 
 Rather then using a service because of its convenience, we should consider its privacy, security, governance and how much sovereignty the users have. Sometimes there is a spectrum and trade off between convenience versus privacy and security. I just think it is a trade off we need to be aware of and willing to accept. Take a browse into https://tosdr.org/ and things like [Transparency Reports](https://transparencyreport.google.com/?hl=en). These big tech companies do not protect your privacy and I am not okay with the government having a backdoor into our private data. All of these government
 
-It takes a lot of learning and work to opt-out into alternative solutions, therefore I am writing to share my current solution for review and discussion. 
-
-This is also a longer discussion so feel free to contact me if you want to discuss further.
+It takes a lot of learning and work to opt-out into alternative solutions. 
 
 # Resources I used
 
@@ -40,8 +38,7 @@ This is also a longer discussion so feel free to contact me if you want to discu
 
 ## Books
 
-+ [Extreme Privacy: What it Takes to Disappear 4th edition](https://www.amazon.com/Extreme-Privacy-What-Takes-Disappear/dp/B0898YGR58), Michael Bazzel - This is the book that introduced me to privacy, the author previously worked at the FBI in intelligence.
-
++ [Extreme Privacy: What it Takes to Disappear 4th edition](https://www.amazon.com/Extreme-Privacy-What-Takes-Disappear/dp/B0898YGR58), Michael Bazzel
 + [OSINT Techniques: Resources for Uncovering Online Information](https://www.amazon.com/OSINT-Techniques-Resources-Uncovering-Information/dp/B0BRDLYX75), Michael Bazzell - This book shows you can uncover a lot of info with an email or phone number. It gets even more interesting when you get into breached data and stealer logs for security research purposes.
 
 ## Youtube/Odysee
@@ -61,13 +58,13 @@ This is also a longer discussion so feel free to contact me if you want to discu
 
 ## Note on implementing these strategies
 
-Reach out if you need help with anything. I can help. Also, there is no elitism or moral superiority in whatever decision you make.
+There is no elitism or moral superiority in whatever decision you make.
 
 # Mobile Devices
 
 Consider [this video](https://yewtu.be/watch?v=QUYODQB_2wQ) by the Wall Street Journal. If you put your sensitive data and functionality on your phone, then you need to make it secure. Also, reconsider what you put on your phone and the worst case scenario if someone has access to it.
 
-I have a iPhone but I also use [GrapheneOS](https://grapheneos.org) with a Pixel 6a.  I am slowly transitioning from iPhone to GrapheneOS.
+[GrapheneOS](https://grapheneos.org) with a Pixel 6a.
 
 Amazon has some really cheap Pixel phones you can buy like [this](https://www.amazon.com/Google-Pixel-6-Inches-Display-SmartPhone/dp/B0B2F4LMS2)
 
@@ -174,7 +171,7 @@ An easier and free option is to use Google Voice. This is what I use when anonym
 
 If you are price insensitive, https://crypton.sh is a solid service for a non-VOIP private number.
 
-# Text Messaging  Platforms
+# Text Messaging Platforms
 This is a great website that compares all the messaging platform.
 https://www.securemessagingapps.com/
 
@@ -201,8 +198,6 @@ RSS is a open protocol to subscribe to any media. I really like it because it gi
 # Payment
 
 I use [privacy.com](https://privacy.com/) for transactions and payments for which I want to more privacy.
-
-More info on Monero XMR will be added later.
 
 AML/CFT (Anti-Money Laundering/Combating the Financing of Terrorism) is a euphemism for warrantless surveillance.  All your banking activity is reported to the government. The 4th amendment is not doing anything anymore.
 
