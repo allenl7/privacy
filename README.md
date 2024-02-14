@@ -14,14 +14,14 @@ Digital security is a form of self defense. The internet nowadays is a highly ad
 ## Digital Privacy
 Privacy ultimately ties closely with individual human rights (freedom, democracy, freedom of speech, property rights, etc.) 
 
-The way I think about privacy and security is that it really just an means to an end. I would rather just be able to go about my day doing things I enjoy rather than thinking about how I am digitally vulnerable. Full privacy should be something that is given as an option and that is non-negotiable. Right now it is marketed to us as a feature.
+The way I think about privacy and security is that it really just an means to an end. I would rather just be able to go about my day doing things I enjoy rather than thinking about how I am digitally vulnerable. Full privacy should be something that is given as an option and that is non-negotiable.
 
 https://nitter.net/0xfoobar/status/1502083085743050754#m
 
 ## Digital Sovereignty
 I highly recommend reading this blog post - [WhatsApp and the domestication of users](https://seirdy.one/posts/2021/01/27/whatsapp-and-the-domestication-of-users/) by Seirdy. The TL;DR of this article is WhatsApp is the perfect example of how mainstream digital services get users locked in to their service to ultimately exploit users and then the importance of [libre software](https://web.archive.org/web/20230227222905/https://www.gnu.org/philosophy/free-software-even-more-important.html) (if you dont know what that is, watch [Richard Stallman’s TED talk](https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-society/) to get an idea of it). 
 
-Rather then using a service because of its convenience, we should consider its privacy, security, governance and how much sovereignty the users have. Sometimes there is a spectrum and trade off between convenience versus privacy and security. I just think it is a trade off we need to be aware of and willing to accept. Take a browse into https://tosdr.org/ and things like [Transparency Reports](https://transparencyreport.google.com/?hl=en). These big tech companies do not protect your privacy and I am not okay with the government having a backdoor into our private data. All of these government
+Rather then using a service because of its convenience, we should consider its privacy, security, governance and how much sovereignty the users have. Sometimes there is a spectrum and trade off between convenience versus privacy and security. I just think it is a trade off we need to be aware of and willing to accept. Take a browse into https://tosdr.org/ and things like [Transparency Reports](https://transparencyreport.google.com/?hl=en). These big tech companies do not protect your privacy and I am not okay with the government having a backdoor into our private data.
 
 It takes a lot of learning and work to opt-out into alternative solutions. 
 
@@ -74,7 +74,7 @@ Having one computer be both secure/private and usable/convenient is impossible. 
 
 ## Linux
 
-I recently bought a Thinkpad and I run Ubuntu, Mint and Tails off of it. Still playing around and trying to learn.
+I recently bought a Thinkpad and I run Ubuntu, Mint and Tails off of it.
 
 ## MacOS
 
@@ -89,7 +89,7 @@ Currently using NextDNS.io. DNS-over-HTTPS. block all the ads, porn, social medi
 
 # Web Browsers
 
-I mostly use Brave and Firefox. I have not spend enough time on browser set up yet. I use [Firefox Containers](https://support.mozilla.org/en-US/kb/containers) and uBlock Origin to control the network calls. I recommend going through [Arkenfox's firefox settings](https://github.com/arkenfox/user.js/). There are a lot of other browsers to consider like Librewolf or an ungoogled Chromium.
+I mostly use Brave and Firefox. I have not spend enough time on browser set up yet. I use [Firefox Containers](https://support.mozilla.org/en-US/kb/containers) and uBlock Origin to control the network calls. I recommend going through [Arkenfox's firefox settings](https://github.com/arkenfox/user.js/).
 
 # Encrypted Storage & Backups
 
@@ -112,7 +112,7 @@ I currently use Proton VPN when browsing the internet. I am thinking about tryin
 
 ## Email with email masking service
 
-I currently use Protonmail. I might try out Fastmail and Tutonota sometime later.
+I currently use Protonmail.
 
 For most, if you use the same email address for a lot of accounts, it is very closely tied to your real identity. With OSINT a lot of information can be uncovered with that email address. This is why you should use an email forwarding service.
 
@@ -181,19 +181,15 @@ Signal has great E2EE encryption of the content. However, there is still metadat
 
 Matrix is great as a open platform and protocol. I really like the mission they are striving for. I will try to create my own Matrix server when I get a chance.
 
-The lack of a uniform messaging protocol is preventing private text messaging across different platforms and devices. Currently, two individuals need to be on the same platform, such as WhatsApp or iMessage, in order to message each other. Getting people to switch to a  more secure platform, like Signal or Matrix, is very difficult due to the strong network effects of WhatsApp and iMessage. Probably much stronger than you think. I currently have iMessage with an email but I really want to delete it. Once I delete it, I will be unable to contact some people unless its SMS text which is worse.
+The lack of a uniform messaging protocol is preventing private text messaging across different platforms and devices. Currently, two individuals need to be on the same platform, such as WhatsApp or iMessage, in order to message each other. Getting people to switch to a  more secure platform, like Signal or Matrix, is very difficult due to the strong network effects of WhatsApp and iMessage. Probably much stronger than you think.
 
 # Social Media
-
-I deleted all the data on FB, IG. The only thing holding me back from deleting/deactivating them is the friend connection I have. Once I figure out a way to export them, I will probably delete the account. I want to get to a point where I do not need these platforms with closed ecosystems to manage that for me.
-
-In the long run, Social Media usage has been a net negative on me. I also think it is mostly a net negative for most unless you make money on them or you have extreme discipline to only use certain features.
 
 Use https://libredirect.github.io/ as a proxy to browse social media.
 
 # RSS Feed
 
-RSS is a open protocol to subscribe to any media. I really like it because it gives you full control over your news feed. It is important to curate your own information diet. I currently use Fluent Reader but I am still working on building out my feed.
+RSS is a open protocol to subscribe to any media. I really like it because it gives you full control over your news feed. I currently use Fluent Reader but I am still working on building out my feed.
 
 # Payment
 
@@ -232,7 +228,7 @@ https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2Unco
 
 
 # Contact
-+ Signal +1 
++ textallen.com
 
 # FAQ
 
